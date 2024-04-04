@@ -8,7 +8,6 @@ cor1 = '#282d36'
 cor2 = '#bfdfff'
 cor3 = '#002447'
 cor4 = '#63748f'
-cor5 = '#80d6ff'
 
 janela = Tk()
 janela.title('calculadora')
